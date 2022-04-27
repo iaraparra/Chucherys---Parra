@@ -17,3 +17,8 @@
         opacity: 1;
     };
 }
+.botonFooter{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
